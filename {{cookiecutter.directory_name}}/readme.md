@@ -1,0 +1,2 @@
+## Project Goal ##
+{{cookiecutter.description}}
