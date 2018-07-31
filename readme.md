@@ -21,7 +21,7 @@ Root
 	|-- readme.md            <- this file
 	|-- reports              <- Any reports generated for this project
 	|-- requirements.txt     <- XPO Data Science Modules
-	|-- scripts              <- 
+	|-- scripts              <- scripts of any kind (.py, .sql)
 	`-- setup_env.sh         <- run "bash setup_env.sh" to install requirements then install kernel into virtualenv
 ```
 
