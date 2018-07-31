@@ -1,5 +1,7 @@
 # Information
 
+
+```
 .
 |-- cookiecutter.json
 |-- hooks
@@ -18,5 +20,6 @@
     |-- requirements.txt
     |-- scripts
     `-- setup_env.sh
+```
 
 10 directories, 7 files
