@@ -1,8 +1,8 @@
-# {{directory_name}}
+# {{cookiecutter.directory_name}}
 
 ## Description:
 
-{{description}}
+{{cookiecutter.description}}
 
 
 
