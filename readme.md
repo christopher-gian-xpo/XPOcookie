@@ -1,5 +1,12 @@
 ## XPO Data Science Template Structure
 
+### How to use:
+```
+pip install cookiecutter
+cookiecutter https://github.com/christopher-gian-xpo/XPOcookie
+```
+
+### Structure of this Project
 ```
 Root
 |-- cookiecutter.json        <- jinja2-like configuration file. 
