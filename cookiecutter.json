@@ -1,4 +1,8 @@
 {
 "directory_name": "Project",
-"description":"Enter something here"
+"description":"Enter something here",
+"author_name":"your name",
+"license": ["XPO","MIT", "BSD-3-Clause", "No license file"],
+"python_version":["3.6","3.5","2.7"]
+
 }
